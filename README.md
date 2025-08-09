@@ -33,6 +33,6 @@ The application is designed to serve two key user personas, mirroring a real-wor
 
 This application is deployed on Streamlit Community Cloud and is publicly accessible.
 
-**Live App URL:** `[Your Streamlit App URL Here]`
+**Live App URL:** `(https://predictive-maintainance-app-l84cxus3lavjcp3uflvkbn.streamlit.app/)`
 
 ---
