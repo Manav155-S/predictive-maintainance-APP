@@ -15,7 +15,7 @@ warnings.filterwarnings('ignore')
 
 # --- App Configuration ---
 st.set_page_config(
-    page_title="Fleet Command Center",
+    page_title="Predictive Maintenance & Anomaly Detection",
     page_icon="🏭",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -170,7 +170,7 @@ if st.sidebar.button("♻️ Retrain Model"):
     st.rerun()
 
 # --- Main UI with Tabs ---
-st.title("🏭 Fleet Command Center")
+st.title("🏭 Predictive Maintenance & Anomaly Detection")
 tab1, tab2, tab3 = st.tabs(["Fleet Overview", "Machine Deep Dive", "Analytical Tools"])
 
 with tab1:
