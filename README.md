@@ -1,23 +1,11 @@
 # Predictive Maintenance and Anomaly Detection Command Center
 
-![Fleet Command Center Screenshot](https://i.imgur.com/your-new-screenshot-url.png)
-*(Suggestion: Replace this with a new screenshot of your final app's "Fleet Overview" tab)*
-
 This project is an end-to-end web application that simulates a real-world command center for monitoring an entire fleet of industrial machines. It's a professional-grade tool designed to demonstrate how a combination of **predictive maintenance** and **anomaly detection** can prevent costly equipment failures.
 
 The system uses a high-performance **XGBoost** model to analyze simulated fleet data, **predict** the specific type of failure, and **detect the anomalies** causing it. It provides deep, actionable insights to different user personas—from the factory manager to the on-the-ground engineer—with the core objective of preventing unplanned downtime.
 
 ---
 
-## 🚀 How the Project Justifies Its Title
-
-This project delivers on both key concepts:
-
-* **Predictive Maintenance (The "What"):** The system forecasts *what* kind of failure is likely to occur and *when*. The **"At-Risk Machines Report"** is the primary output of this predictive capability, providing a clear, forward-looking list of machines that need attention.
-
-* **Anomaly Detection (The "Why"):** The system doesn't just predict; it explains. The **"Machine Deep Dive"** and **"Failure Signature Analysis"** tools are powerful anomaly detectors. They identify which sensor readings are behaving abnormally compared to a healthy baseline, providing a clear root cause for the prediction.
-
----
 
 ## 🛠️ Key Features
 
